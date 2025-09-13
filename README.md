@@ -102,18 +102,3 @@ frontend-javascript/
 - You can expand the interface or table to include more fields like age or last name.
 - This project is ideal for learning TypeScript fundamentals and frontend tooling.
 
----
-
-## 👨‍💻 Author
-
-**Aycheh** – Engineering enthusiast passionate about digital electronics, frontend workflows, and hands-on learning.
-
----
-
-## 📄 License
-
-This project is open-source and free to use under the MIT License.
-```
-
----
-!
